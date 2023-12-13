@@ -1,0 +1,7 @@
+path: '/content/drive/MyDrive/LBYMF3B_Final Project/Training'
+train: 'images/train/'
+val: 'images/val/'
+test: 'images/test/'
+
+nc: 5
+names: ['Lemon', 'Grape','Strawberry','Orange','Apple']
